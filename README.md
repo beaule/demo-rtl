@@ -1,2 +1,2 @@
-# demo-rtl
+# sample-app
 Created with CodeSandbox
